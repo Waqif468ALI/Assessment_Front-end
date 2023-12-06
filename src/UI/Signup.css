@@ -1,0 +1,22 @@
+.signupForm{     
+    position: relative;
+    top: 100px;
+}
+.SignUp_input{
+    width:100%;
+    padding: 10px;
+    background-color: transparent;
+    border: 1px solid #ccc;
+    outline: none;
+    border-radius: 5px;
+    background: azure;
+}
+.Submit_Button{
+    width:100%;
+    padding: 10px;
+    outline: none;
+    border-radius: 0px;
+    border: none;
+    background: rgb(213, 221, 94)
+}
+
